@@ -1,1 +1,16 @@
+body{
+     background-color: rgb(231, 199, 58);
+     color: rgb(185, 49, 24);
+}
+header{
+    background-color: rgb(236, 131, 33);
+    color:#ED7A18;
+
+}
+main{
+    background-color: #ED7A18;
+}
+footer{
+    background-color: darkorange;
+}
 
