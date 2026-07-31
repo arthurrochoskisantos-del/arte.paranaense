@@ -7,10 +7,16 @@ header{
     color:#23be0ec4;
 
 }
-main{
-    background-color: #2fa8105e;
+ h1 {
+    background-color: chartreuse;
+ }
+h1 {
+    font-size: 36px;
 }
-footer{
-    background-color: rgba(51, 255, 0, 0.658);
+h2 {
+    color: #078d07;
 }
-
+p {
+    font-size: 20px;
+    line-height: 1.6;
+}
