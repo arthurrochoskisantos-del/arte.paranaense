@@ -1,21 +1,24 @@
 body{
      background-color: rgb(#164206);
      color: rgba(#164206);
+     font-family: AriaL, sans-serif;
 }
+
 header{
     background-color: rgba(53, 156, 13, 0.233);
     color:#23be0ec4;
-
+    text-align: center;
+    padding: 30px;
 }
- h1 {
-    background-color: chartreuse;
- }
+
 h1 {
     font-size: 36px;
 }
+
 h2 {
     color: #078d07;
 }
+
 p {
     font-size: 20px;
     line-height: 1.6;
