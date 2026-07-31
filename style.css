@@ -1,16 +1,16 @@
 body{
-     background-color: rgb(231, 199, 58);
-     color: rgb(185, 49, 24);
+     background-color: rgba(50, 165, 15, 0.849);
+     color: rgba(31, 143, 8, 0.712);
 }
 header{
-    background-color: rgb(236, 131, 33);
-    color:#ED7A18;
+    background-color: rgba(53, 156, 13, 0.233);
+    color:#23be0ec4;
 
 }
 main{
-    background-color: #ED7A18;
+    background-color: #2fa8105e;
 }
 footer{
-    background-color: darkorange;
+    background-color: rgba(51, 255, 0, 0.658);
 }
 
