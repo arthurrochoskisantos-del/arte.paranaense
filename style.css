@@ -1,11 +1,11 @@
 body {
     background-color: #4bd319;
-    color: #ff0000;
+    color: #22880d4d;
     font-family: AriaL, sans-serif;
 }
 
 header {
-    background-color: #d2f700;
+    background-color: #378f1467;
     color: #23be0ec4;
     text-align: center;
     padding: 30px;
@@ -28,7 +28,7 @@ main {
     margin: auto;
 }
 section {
-    background-color: #0349cc;
+    background-color: #3aa1117e;
     margin: 20px 0;
     padding: 20px;
     border-radius: 12;
@@ -43,6 +43,6 @@ img {
 figcaption {
     text-align: center;
     font-size: 14px;
-    color:#ff5404;
+    color:#3cc02b8a;
     margin-top: 8px;
 }
