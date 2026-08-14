@@ -25,6 +25,21 @@ p {
     line-height: 1.6;
 }
 
+nav {
+    margin-top: 20px;
+}
+nav a {
+    color:white;
+    text-decoration: none;
+    background-color: #2f6b1f;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin:5px;
+    display: inline-block;
+}
+nav a:hover {
+    background-color: #234d20;
+}
 main {
     width: 80%;
     margin: 30px auto;
@@ -54,11 +69,21 @@ figcaption {
     color: #4e6b3a;
     margin-top: 8px;
 }
+card {
+    background-color: #4caf50;
+    padding: 15px;
+    margin: 15px;
+    border-left: #2e7d32;
+    border-radius: 10px;
+}
+card h3 {
+    margin-top: 0;
+}
 
 footer {
     background-color: #2e7d32;
-    color: white;
+    color: whit* e;
     text-align: center;
-    padding: 15px;
+    padding: 20px;
     margin-top: 30px;
 }
