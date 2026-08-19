@@ -16,17 +16,25 @@ header {
 
 h1 {
     font-size: 36px;
+    margin: 0;
 }
 
 
 h2 {
     color: #2f6b1f;
+    font-size: 24px;
+    margin-bottom: 15px;
 }
 
+h3 {
+    color: #6bdd3e
 
+}
 p {
     font-size: 20px;
     line-height: 1.6;
+    color: #2e7d32;
+    
 }
 
 
@@ -37,6 +45,11 @@ nav {
 nav a {
     color: white;
     text-decoration: none;
+    background-color: #2f6b1f;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin: 5px;
+    display: inline-block;
 }
 
 
