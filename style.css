@@ -1,5 +1,17 @@
+:root{
+  --cor-fundo: #1ea446
+  --cor-texto: #000000
+  --cor-principal: #3e9e50
+  --cor-segundaria: #12CA2E
+  --cor-hover: #46B313
+  --cor-superficie: #1FA855
+  --cor-legenda: #309755
+  --cor-clara: #5FDA5D
+  --cor-rodape: #20851E
+}
 body {
-    background-color: #63b411;
+
+    background-color: #458109e3;
     color: #1e9411;
     font-family: Arial, sans-serif;
     margin: 0;
