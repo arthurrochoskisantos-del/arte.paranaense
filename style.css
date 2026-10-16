@@ -1,13 +1,13 @@
-:root{
-  --cor-fundo: #07c407ad;
+:root {
+  --cor-fundo: #78965A;
   --cor-texto: #000000;
-  --cor-principal: #30cc11b9;
-  --cor-segundaria: #598860a8;
-  --cor-hover: #46B313;
-  --cor-superficie: rgba(19, 192, 13, 0.719)/855;
-  --cor-legenda: #30975;;
-  --cor-clara: #418f40c9;
-  --cor-rodape: #10a80ede;
+  --cor-principal: #477A3D;
+  --cor-secundaria: #598860;
+  --cor-hover: #315C2D;
+  --cor-superficie: rgba(19, 92, 35, 0.719);
+  --cor-legenda: #309755;
+  --cor-clara: #B8CCA0;
+  --cor-rodape: #263F29;
 }
 body {
 
