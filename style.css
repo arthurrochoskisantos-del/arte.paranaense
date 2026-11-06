@@ -1,13 +1,13 @@
 :root {
-  --cor-fundo: #78965A;
-  --cor-texto: #000000;
-  --cor-principal: #477A3D;
-  --cor-secundaria: #598860;
-  --cor-hover: #315C2D;
-  --cor-superficie: rgba(19, 92, 35, 0.719);
-  --cor-legenda: #309755;
-  --cor-clara: #B8CCA0;
-  --cor-rodape: #263F29;
+  --cor-fundo: #A8D832;
+  --cor-texto: #172817;
+  --cor-principal: #267A32;
+  --cor-secundaria: #42A83D;
+  --cor-hover: #145522;
+  --cor-superficie: #236B35;
+  --cor-legenda: #D5F06A;
+  --cor-clara: #E9F5D5;
+  --cor-rodape: #103B24;
 }
 
 .tema-escuro {
